@@ -15,7 +15,7 @@ decorator==4.4.2
 defusedxml==0.6.0
 en-core-web-lg==2.2.5
 en-core-web-sm==2.2.5
-en_diogenet_model-0.1.tar.gz
+./en_diogenet_model-0.1.tar.gz
 entrypoints==0.3
 fastapi==0.44.1
 h11==0.9.0
