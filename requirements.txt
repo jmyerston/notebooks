@@ -41,6 +41,7 @@ murmurhash==1.0.2
 nbconvert==5.6.1
 nbformat==5.0.6
 notebook==6.0.3
+neuralcoref-4.0.tar.gz
 numpy==1.18.4
 packaging==20.4
 pandocfilters==1.4.2
@@ -64,7 +65,7 @@ pyzmq==19.0.1
 requests==2.23.0
 Send2Trash==1.5.0
 six==1.15.0
-spacy==2.2.4
+spacy-2.3.0.tar.gz
 srsly==1.0.2
 starlette==0.12.9
 terminado==0.8.3
