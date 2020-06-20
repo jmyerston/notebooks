@@ -13,8 +13,8 @@ cycler==0.10.0
 cymem==2.0.3
 decorator==4.4.2
 defusedxml==0.6.0
-en-core-web-lg==2.2.5
-en-core-web-sm==2.2.5
+en-core-web-lg
+en-core-web-sm
 ./en_diogenet_model-0.1.tar.gz
 entrypoints==0.3
 fastapi==0.44.1
